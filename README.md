@@ -6,3 +6,4 @@ In this project, I analyzed video game critic and user scores as well as sales d
 
 ## Competitor analysis dashboard
 
+![](https://github.com/DarkoMonzioCompagnoni/media/blob/main/Competitors%20Analysis%20-%20Video%20Games%20_%20Tableau%20Public.gif)
